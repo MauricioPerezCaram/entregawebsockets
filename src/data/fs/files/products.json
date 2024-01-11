@@ -26,5 +26,12 @@
     "photo": "https://http2.mlstatic.com/D_NQ_NP_919371-MLA48697047530_122021-O.webp",
     "price": "4",
     "stock": "4"
+  },
+  {
+    "id": "41702c0e3a316c2fc4473fcf",
+    "title": "Watch",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRbnjgyDs78mZxs8hqA4FpezHwP1QXvFUdHZmo2iMzWNVHC5AamyrXgOw6dksaIE2xGs&usqp=CAU",
+    "price": "966",
+    "stock": "123"
   }
 ]
