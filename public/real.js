@@ -3,7 +3,6 @@ console.log("socket");
 const socket = io();
 
 socket.on("productos", (data) => {
-  //console.log(data);
   const template = data
     .map(
       (each) => `
@@ -29,6 +28,5 @@ document.querySelector("#newProduct").addEventListener("click", (product) => {
   price && (data.price = price);
   stock && (data.stock = stock);
 
-  //console.log(data);
   socket.emit("newProducto", data);
 });
