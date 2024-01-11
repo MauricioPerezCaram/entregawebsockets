@@ -33,5 +33,12 @@
     "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRbnjgyDs78mZxs8hqA4FpezHwP1QXvFUdHZmo2iMzWNVHC5AamyrXgOw6dksaIE2xGs&usqp=CAU",
     "price": "966",
     "stock": "123"
+  },
+  {
+    "id": "39a2e452b848dc2ce925c84d",
+    "title": "a",
+    "photo": "a",
+    "price": "1",
+    "stock": "1"
   }
 ]
