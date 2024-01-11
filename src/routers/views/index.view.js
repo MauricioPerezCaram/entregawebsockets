@@ -1,20 +1,24 @@
 import { Router } from "express";
 
-import eventsRouter from "./events.view.js";
-import usersRouter from "./users.view.js"
+import productsRouter from "./products.view.js";
+import usersRouter from "./users.view.js";
 
 const viewsRouter = Router();
 
 viewsRouter.get("/", (req, res, next) => {
   try {
-    const mainEvents = ["hp", "pokemon", "batman"];
+    const mainproducts = ["hp", "pokemon", "batman"];
     const date = new Date();
-    return res.render("index", { events: mainEvents, date, title: "INDEX" });
+    return res.render("index", {
+      products: mainproducts,
+      date,
+      title: "INDEX",
+    });
   } catch (error) {
     next(error);
   }
 });
-viewsRouter.use("/events", eventsRouter);
-viewsRouter.use("/users", usersRouter)
+viewsRouter.use("/products", productsRouter);
+viewsRouter.use("/users", usersRouter);
 
 export default viewsRouter;
