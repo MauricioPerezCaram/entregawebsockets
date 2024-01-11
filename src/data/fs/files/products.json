@@ -1,29 +1,29 @@
 [
   {
     "id": "830d3382f24db9a49c5f0762",
-    "title": "Producto 1",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Un1.svg/2048px-Un1.svg.png",
-    "price": 10,
+    "title": "iPhone 15",
+    "photo": "https://http2.mlstatic.com/D_NQ_NP_912227-MLA71782903150_092023-O.webp",
+    "price": 1000,
     "stock": 50
   },
   {
     "id": "8efbbfa0ebe134665e73f428",
-    "title": "Producto 2",
-    "photo": "https://dibujosycolores.com/numeros/numero-2/numero-2-1.jpg",
-    "price": 10,
+    "title": "Mac Book Pro",
+    "photo": "https://hiraoka.com.pe/media/mageplaza/blog/post/m/a/macbook_air_vs._macbook_pro-_cuales_son_sus_diferencias.jpg",
+    "price": 1900,
     "stock": 19
   },
   {
     "id": "0db371924ca2d5503e8598af",
-    "title": "Producto 3",
-    "photo": "https://biblioteca.acropolis.org/wp-content/uploads/2015/08/3.png",
-    "price": 10,
+    "title": "iPad",
+    "photo": "https://http2.mlstatic.com/D_NQ_NP_883063-MLA72121884357_102023-O.webp",
+    "price": 100,
     "stock": 50
   },
   {
     "id": "39de01447e49a431d3244467",
-    "title": "Producto 4",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zRJPybMnvKL9xVXIxiWj092D8_6NKdpJUw&usqp=CAU",
+    "title": "Airpods pro",
+    "photo": "https://http2.mlstatic.com/D_NQ_NP_919371-MLA48697047530_122021-O.webp",
     "price": "4",
     "stock": "4"
   }
